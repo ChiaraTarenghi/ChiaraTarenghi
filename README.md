@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiara Tarenghi</h1>
 <h3 align="center">A Data Scientist!</h3>
 
-- 🔭 I’m currently working on [Genomic Data Science Specialization](https://github.com/CasparPetch/positube)
+
 
 - 👯 I’m looking to collaborate on **Any new interesting project, especially in healthcare**
 
