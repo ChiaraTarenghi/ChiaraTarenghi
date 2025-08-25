@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiara Tarenghi</h1>
-<h3 align="center">A Data Scientist!</h3>
+<h3 align="center">A Bioinformatic / Data Scientist!</h3>
 
 
 
